@@ -1,0 +1,41 @@
+Info: CustomCategory:scrum_overview: 30 mini seconds publishing element
+Info: DeliveryProcess:Processo CMS NAVI: 361 mini seconds publishing element
+Info: DeliveryProcess:Processo CMS NAVI: 47 mini seconds publishing process specific layout data
+Info: Iteration:Sprint: 218 mini seconds publishing element
+Info: Activity:Planejamento da iteração: 287 mini seconds publishing element
+Info: Activity:Desenvolvimento: 384 mini seconds publishing element
+Info: Activity:Revisão da Sprint: 187 mini seconds publishing element
+Info: RoleSet:scrum_roles: 15 mini seconds publishing element
+Info: Role:scrummaster: 32 mini seconds publishing element
+Info: Role:scrum_team: 95 mini seconds publishing element
+Info: WorkProductType:scrum_work_products: 32 mini seconds publishing element
+Info: Artifact:potentially_shippable_product_incremement: 128 mini seconds publishing element
+Info: Artifact:product_backlog: 44 mini seconds publishing element
+Info: Artifact:sprint_backlog: 31 mini seconds publishing element
+Info: Discipline:scrum_activities: 0 mini seconds publishing element
+Info: Task:sprint_planning_meeting: 15 mini seconds publishing element
+Info: Task:sprint_retrospective: 16 mini seconds publishing element
+Info: Task:sprint_review_meeting: 16 mini seconds publishing element
+Info: Task:estimando_a_product_backlog: 15 mini seconds publishing element
+Info: Task:priorizando_o_backlog: 15 mini seconds publishing element
+Info: Task:planejar_release: 17 mini seconds publishing element
+Info: TaskDescriptor:sprint_planning_meeting: 15 mini seconds publishing element
+Info: TaskDescriptor:release_planning: 16 mini seconds publishing element
+Info: TaskDescriptor:desenvolver_incremento: 16 mini seconds publishing element
+Info: TaskDescriptor:sprint_review_meeting: 15 mini seconds publishing element
+Info: TaskDescriptor:sprint_retrospective: 32 mini seconds publishing element
+Info: RoleDescriptor:scrum_team: 16 mini seconds publishing element
+Info: RoleDescriptor:scrummaster: 16 mini seconds publishing element
+Info: WorkProductDescriptor:potentially_shippable_product_incremement: 15 mini seconds publishing element
+Info: WorkProductDescriptor:product_backlog: 17 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_backlog: 0 mini seconds publishing element
+Info: RoleDescriptor:scrum_team: 63 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_backlog: 17 mini seconds publishing element
+Info: RoleDescriptor:scrum_team: 15 mini seconds publishing element
+Info: RoleDescriptor:scrummaster: 0 mini seconds publishing element
+Info: WorkProductDescriptor:sprint_backlog: 0 mini seconds publishing element
+Info: Task:desenvolver_incremento: 14 mini seconds publishing element
+Info: Concept:story_points: 17 mini seconds publishing element
+Info: Guideline:estimation_techniques: 14 mini seconds publishing element
+Info: Guideline:prioritizing_the_backlog: 15 mini seconds publishing element
+Info: : Publishing time: 0 minutes 4 seconds

@@ -1,0 +1,3 @@
+Warning: Artifact:product_backlog: Missing referenced element Role:product_owner
+Warning: Artifact:sprint_backlog: Missing referenced element Role:product_owner
+Warning: Task:sprint_retrospective: Missing referenced element Role:product_owner
