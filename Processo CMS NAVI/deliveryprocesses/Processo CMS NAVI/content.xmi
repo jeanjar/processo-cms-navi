@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UV1js1H8qHBbQTh9opqkxw" name="Processo CMS NAVI,_aTaMkXr8EeiEQ7RNJ3NSGw" guid="-UV1js1H8qHBbQTh9opqkxw">
+  <mainDescription>Para poder conseguir realizar a entrega do CMS - NAVI, foi escolhido o processo de desenvolvimento ágil Scrum, com suas&#xD;
+devidas adaptações, tendo como enfoque o seu ciclo de vida, como descrito na Figura 2. Com o escopo do projeto já definido,&#xD;
+foi descartado o papel do Product Owner, mantendo o Scrum Master e Scrum Team.&amp;nbsp; A equipe de desenvolvimento era&#xD;
+bastante reduzida, então atribuiu-se também ao Scrum Master tarefas de desenvolvimento. Foi descartado o Daily Scrum, já&#xD;
+que a equipe de desenvolvimento sempre estava bem conectada e todos trabalhavam no mesmo ambiente. Foram definidas Sprint’s&#xD;
+semanais, e ao final de cada Sprint foi realizada a Sprint Review, onde era planejada a próxima Sprint (Sprint Planning). O&#xD;
+Product Backlog foi gerado a partir dos documentos de casos de uso do projeto e de algumas histórias de usuários.</mainDescription>
+</org.eclipse.epf.uma:DeliveryProcessDescription>
